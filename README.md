@@ -1,8 +1,3 @@
-Absolutely! Here's a **clean and structured `README.md` file** for your **Restaurant Management System**, styled like your earlier request (with headings, badges, features, diagrams, and modular layout):
-
----
-
-```markdown
 <h1 align="center">🍽️ Restaurant Management System - Java Desktop Application</h1>
 <h3 align="center">A Modular Java-Based Restaurant Software with GUI for Efficient Daily Operations</h3>
 
@@ -45,12 +40,17 @@ The **Restaurant Management System** is a Java-based desktop application develop
 
 ## 🛠 Tech Stack
 
-```mermaid
-graph LR
-A[Java] --> B[Java Swing GUI]
-B --> C[AWT for Event Handling]
-C --> D[Java IO (File-Based Storage)]
-```
+🟦 Java ├── 🎨 Swing (GUI) ├── 🧱 AWT (Event Handling) └── 📂 Java IO (File-Based Storage)
+
+
+
+---
+
+## 🔐 Login Credentials
+
+```bash
+Username: shahin
+Password: shahin
 
 ---
 
